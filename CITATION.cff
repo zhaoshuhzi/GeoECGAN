@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it.
+title: GeoECGAN
+authors:
+  - family-names: Your
+    given-names: Name
+version: 0.1.0
+date-released: 2025-11-09
